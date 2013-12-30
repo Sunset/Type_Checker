@@ -1,0 +1,20 @@
+a int
+asd bool
+asdd bool
+b int
+bar int
+c int
+d double
+dd double
+foo int
+note string
+notee string
+suc bool
+success bool
+x double
+y double
+z string
+zz string
+
+ERROR IN ASSIGNMENT
+double

@@ -1,0 +1,5 @@
+Allen Hsia
+language c++:
+use makefile to compile.
+Hopefully it works :)
+It may run into some memory errors but using the test case itself would work.

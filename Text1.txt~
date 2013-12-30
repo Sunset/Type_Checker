@@ -1,0 +1,19 @@
+int foo
+int bar
+int zz
+double x
+double y
+double yy
+string z
+bool success
+int[7] a
+int[7] b
+int[15] c
+double[15] d
+double[15] f
+string[7] note
+
+x = apple + y
+a = b
+x = y + d[1]
+x = x + x + x + x + x + x + y
